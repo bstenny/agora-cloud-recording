@@ -2,6 +2,9 @@
 let remoteContainer= document.getElementById("remote-container");
 
 /**
+ * this is a test comment
+ */
+/**
  * @name addVideoContainer
  * @param uid - uid of the user
  * @description Helper function to add the video stream to "remote-container"
